@@ -13,9 +13,9 @@
 
 ***
 
-### Hafe a SAFE Trip to F#
+### Have a SAFE Trip to F#
 
-![Hafe a Safe Trip](./images/safetrip.jpg)
+![Have a Safe Trip](./images/safetrip.jpg)
 
 <small>Grigoriy Belenkiy<br/>
 Software engineer, 361 Capital
