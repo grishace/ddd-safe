@@ -1,0 +1,21 @@
+img { 
+  border-style: none !important;
+  box-shadow: none !important;
+}
+
+
+div.slide-background.present {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+html { 
+  background-color: #fff !important; 
+}
+ 
+html:-webkit-full-screen-ancestor {
+  background-color: inherit; }
+
+html:-moz-full-screen-ancestor {
+  background-color: inherit; }
