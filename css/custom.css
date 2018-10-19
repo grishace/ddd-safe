@@ -1,8 +1,7 @@
-img { 
+img {
   border-style: none !important;
   box-shadow: none !important;
 }
-
 
 div.slide-background.present {
     background-position: center;
@@ -10,12 +9,17 @@ div.slide-background.present {
     background-repeat: no-repeat;
 }
 
-html { 
-  background-color: #fff !important; 
+html {
+  background-color: #fff !important;
 }
- 
+
 html:-webkit-full-screen-ancestor {
   background-color: inherit; }
 
 html:-moz-full-screen-ancestor {
   background-color: inherit; }
+
+img[src*="#align-hack"] {
+  vertical-align: middle;
+  padding-left: 10px;
+}
